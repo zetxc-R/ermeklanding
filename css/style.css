@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body .section-1 {
+  height: 100vh;
+  background-color: black;
+}
+
+body .section-2 {
+  height: 100vh;
+  background-color: blue;
+}
+
+body .section-3 {
+  height: 100vh;
+  background-color: red;
+}
+
+body .section-4 {
+  height: 100vh;
+  background-color: green;
+}
+/*# sourceMappingURL=style.css.map */
